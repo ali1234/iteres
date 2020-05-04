@@ -1,0 +1,6 @@
+.idea
+work
+*.tar
+__pycache__
+*.egg-info
+venv
